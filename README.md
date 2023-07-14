@@ -24,12 +24,6 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2yunj007&layout=compact&theme=vue)](https://github.com/2yunj007)
  
-<hr>
- 
 
- 
- 
-
-</a>
  
 </div>
